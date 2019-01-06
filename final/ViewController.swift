@@ -15,13 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-xcasdasdasdasdsdadasd
-    
-    
-    sadasdasdasdasdasdasd
-    
-    //asdasdasdasdasda
-    dasdda
+//Esto es un aprueba de validacion
     
     
 }
